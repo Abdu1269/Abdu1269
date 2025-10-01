@@ -1,60 +1,80 @@
-![👋 Hi, my name is Abdurahim Negussie]([https://i.ibb.co/FhND4QB/db5d6abc-a5ef-4d68-9b58-5429c67529ea.jpg](https://avatars.githubusercontent.com/u/47080325?v=4))
+# 👋 Hi, I'm Abdurahim Negussie  
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Abdurahim Negussie
-      </h1>
-    </summary>
-  </ul>
-</div>
+🚀 **Frontend Developer | Co-Founder @ [Kachamale Software Solutions](https://github.com/)**  
+Crafting modern, scalable, and user-focused applications with passion for **UI/UX excellence** and **cutting-edge web technologies**.  
 
-**<h3 align="left">Connect with me:</h3>** 
+---
+
+## 🌟 About Me  
+- 💡 Co-Founder of **Kachamale Software Solutions**  
+- 🖥️ Specialized in **Frontend Development** (React, Next.js, Flutter, React Native)  
+- 🎯 Building **SaaS products** like [Yene Menu](#) – a digital restaurant ecosystem  
+- 🛠️ Advocate of **clean architecture**, **scalable design systems**, and **real-time apps**  
+- 🌍 Based in **Ethiopia**, working with clients globally  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=radixui&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![MUI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ State & Data
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+### 🛠 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
 <p align="left">
-  <a href="https://github.com/MichaelWondemuu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
-  </a> 
-  <a href="https://www.linkedin.com/in/michael-wondemu-2a3849199" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-  </a> 
-  <a href="https://twitter.com/michael_wondemu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<h3 align="left">🚀 Passionate Software Engineer</h3> <p align="left">I specialize in e-commerce and procurement systems, with expertise in full-stack development, including NestJS, PostgreSQL, and microservices architecture.</p> <h3 align="left">🎓 Lecturer at Woldia University</h3> <p align="left">I am dedicated to sharing knowledge and inspiring the next generation of tech professionals. At Woldia University, I teach courses in computer science and software engineering, encouraging innovation and critical thinking among students.</p> <h3 align="left">💻 Software Developer at Prago Systems & Kachamale Technologies</h3> <p align="left">With extensive experience in software development, I focus on building scalable and user-friendly solutions: - At **Prago Systems**, I work on enterprise-grade software applications. - At **Kachamale Technologies**, I contribute to cutting-edge projects that push technological boundaries.</p> <h3 align="left">🚀 What I Do</h3> <ul align="left"> <li>Develop and maintain complex software systems using modern tech stacks.</li> <li>Mentor and guide students and junior developers in their career journeys.</li> <li>Collaborate with teams to deliver innovative solutions to real-world problems.</li> </ul>
+---
 
-**<h3 align="left">Rapid Fire</h3>**
+## ✨ Fun Fact  
+> “Code is like humor. When you have to explain it, it’s bad.”  
 
-- 💼 I'm currently working on: **💻 Enhancing e-commerce platforms and optimizing procurement systems for governments**
-- 🌱 I'm currently learning: **📚 Exploring machine learning and AI integration in e-commerce systems**
-- 💬 Ask me about: **💡 NestJS, PostgreSQL, Microservices, TypeORM, and RabbitMQ**
-- ⚡️ Fun fact: **🎢 I once optimized an e-commerce search feature while debugging from a rollercoaster!**
+---
 
-**<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/NestJS-000000?logo=nestjs&logoColor=white" height="32" alt="NestJS" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/RabbitMQ-F7B500?logo=rabbitmq&logoColor=white" height="32" alt="RabbitMQ" style="margin-right: 4px"> 
-</div>
-
-**<h3 align="left">GitHub Stats</h3>**
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MichaelWondemuu&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=MichaelWondemuu&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelWondemuu&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelWondemuu&repo=website_saas&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
-</p>
-
-**<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/michaelw43853" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
-
+⭐️ From [Abdurahim Negussie](https://github.com/your-username) | **Kachamale Software Solutions**
