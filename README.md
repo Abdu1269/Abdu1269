@@ -8,7 +8,7 @@ Crafting modern, scalable, and user-focused applications with passion for **UI/U
 ## 🌟 About Me  
 - 💡 Co-Founder of **Kachamale Software Solutions**  
 - 🖥️ Specialized in **Frontend Development** (React, Next.js, Flutter, React Native)  
-- 🎯 Building **SaaS products** like [Yene Menu](#) – a digital restaurant ecosystem  
+- 🎯 Building **SaaS products** like [Yene Menu](https://yenemenu.com/) – a digital restaurant ecosystem  
 - 🛠️ Advocate of **clean architecture**, **scalable design systems**, and **real-time apps**  
 - 🌍 Based in **Ethiopia**, working with clients globally  
 
