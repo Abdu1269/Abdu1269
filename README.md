@@ -59,7 +59,6 @@ Crafting modern, scalable, and user-focused applications with passion for **UI/U
 ---
 
 ## 🌐 Connect with Me  
-
 <p align="left">
   <a href="https://www.linkedin.com/in/abdurahim-negussie-483721310" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -71,7 +70,6 @@ Crafting modern, scalable, and user-focused applications with passion for **UI/U
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
-
 ---
 
 ## ✨ Fun Fact  
