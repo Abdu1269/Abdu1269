@@ -61,25 +61,15 @@ Crafting modern, scalable, and user-focused applications with passion for **UI/U
 ## 🌐 Connect with Me  
 
 <p align="left">
-
-  <a href="https://www.linkedin.com/in/abdurahim-negussie-483721310" target="_blank">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-  </a>
-
-  <a href="mailto:your-email@gmail.com" target="_blank">
-
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-  </a>
-
-  <a href="abdu.negu1269@gmail.com" target="_blank">
-
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-
-  </a>
-
+  <a href="https://www.linkedin.com/in/abdurahim-negussie-483721310" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="abdu.negu1269@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
