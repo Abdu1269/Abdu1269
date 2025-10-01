@@ -46,12 +46,12 @@ Crafting modern, scalable, and user-focused applications with passion for **UI/U
 ## 📊 GitHub Stats & Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdu1269&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdu1269&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdu1269&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 ---
@@ -59,13 +59,13 @@ Crafting modern, scalable, and user-focused applications with passion for **UI/U
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abdurahim-negussie-483721310)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your-email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="abdu.negu1269@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -77,4 +77,4 @@ Crafting modern, scalable, and user-focused applications with passion for **UI/U
 
 ---
 
-⭐️ From [Abdurahim Negussie](https://github.com/your-username) | **Kachamale Software Solutions**
+⭐️ From [Abdurahim Negussie]([https://github.com/your-username](https://github.com/Abdu1269)) | **Kachamale Software Solutions**
